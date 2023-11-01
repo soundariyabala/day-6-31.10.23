@@ -1,0 +1,1 @@
+This is day 6 task contains solution for Class Movie ,Class circle, Class Person, Class Uberprice
